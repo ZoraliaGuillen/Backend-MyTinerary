@@ -1,19 +1,19 @@
 const Router = require("express").Router()
 
-const citiesControllers = require("../controllers/citiesControllers")
-const {getAllCities, getOneCity, addManyCities, addOneCity, removeManyCities, removeCity, modifyCity} = citiesControllers
+const itinerariesControllers = require("../controllers/itinerariesControllers")
+const {getAllItineraries, getOneItinerary, addManyItineraries, addOneItinerary, removeManyItineraries, removeItinerary, modifyItinerary} = itinerariesControllers
 
-Router.route("/cities")
-.get(getAllCities)
-.post((req, res)=>(Array.isArray(req.body.data) ?addManyCities(req, res) :addOneCity(req,res)))
-.delete(removeManyCities)
+Router.route("/itineraries")
+.get(getAllItineraries)
+.post((req, res)=>(Array.isArray(req.body.data) ?addManyItineraries(req, res) :addOneItinerary(req,res)))
+.delete(removeManyItineraries)
 
-Router.route("/cities/:id")
-.get(getOneCity)
-.delete(removeCity)
-.put(modifyCity)
+Router.route("/itineraries/:id")
+.get(getOneItinerary)
+.delete(removeItinerary)
+.put(modifyItinerary)
 
-// Router.route("/allcities")
-// .post(addAllCities)
+// Router.route("/allitineraries")
+// .post(addAllitineraries)
 
 module.exports = Router;
