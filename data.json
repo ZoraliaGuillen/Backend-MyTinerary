@@ -21,6 +21,7 @@
             "duration": "1 Day",
             "hashtags": "#Athens, #Greece, #Europe.",
             "likes": "41"
+            
         },
         {
             "cityId": "64a4aaeea22b32e74c0daccc",
@@ -354,5 +355,5 @@
         }
     ]
 
-    
+
 }
