@@ -1,144 +1,1154 @@
 {
     "data": [
         {
-            "name": "Amsterdam",
-            "country": "Netherland",
-            "continent": "Europe",
-            "description": "Founded in the 13th century as a small fishing village, it is currently the largest city in the country and a major financial and cultural center of international projection.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FAmstermdam(Netherlands).svg?alt=media&token=956b7297-76c7-49bb-ad07-485154098c2d"
+            "id": 1,
+            "categoria": "Bebés",
+            "subcategoria": "Accesorios Bebés",
+            "marca": "NUK",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FNuk.png?alt=media&token=8611c7cf-7b9b-4d72-a232-69359a5a6ef1",
+            "producto": "Calentador de Mamaderas NUK Thermo Express",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Accesorios%20Beb%C3%A9s-1.png?alt=media&token=fd072474-d488-471c-ada0-fd5ec2d60cd3",
+            "precio": 18260.5
         },
         {
-            "name": "Athens",
-            "country": "Grecce",
-            "continent": "Europe",
-            "description": "One of the oldest inhabited cities, Athens is a city rich in archaeological remains of extraordinary importance, Roman monuments are preserved, as well as several notable modern constructions.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FAthens(Greece).svg?alt=media&token=8aabe863-de3a-47aa-b6fb-26d5c77ab2b7"
+            "id": 2,
+            "categoria": "Bebés",
+            "subcategoria": "Accesorios Bebés",
+            "marca": "Chicco",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FChicco.png?alt=media&token=b1203607-cfe9-45d9-9645-4cb60fbafd03",
+            "producto": "Chupete de Silicona Chicco Physio Soft 16-36 meses",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Accesorios%20Beb%C3%A9s-2.png?alt=media&token=7faa274c-288f-40cc-9a67-ded532a3a770",
+            "precio": 2749
         },
         {
-            "name": "Bangkok",
-            "country": "Thailand",
-            "continent": "Asia",
-            "description": "Thanks to its growing economic development and its great relevance as an international tourist destination, it has become one of the most influential and modern cities in Southeast Asia.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FBangkok(Thailand).svg?alt=media&token=cf395634-c4e2-4421-8334-d667aaa1c105"
+            "id": 3,
+            "categoria": "Bebés",
+            "subcategoria": "Accesorios Bebés",
+            "marca": "NUK",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FNuk.png?alt=media&token=8611c7cf-7b9b-4d72-a232-69359a5a6ef1",
+            "producto": "Esterilizador Eléctrico NUK Vario Express",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Accesorios%20Beb%C3%A9s-3.png?alt=media&token=e10e6e71-aa09-4bfb-9892-b4fa2f5eec7a",
+            "precio": 37674.5
         },
         {
-            "name": "Berlin",
-            "country": "Germany",
-            "continent": "Europe",
-            "description": "The buildings of modern architecture erase with large brushstrokes the dark past of the city, creating a special atmosphere where the classic mixes with the modern and the extravagant with the everyday.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FBerlin(Germany).svg?alt=media&token=1c221e0f-a708-48a1-a8f2-56494255933c"
+            "id": 4,
+            "categoria": "Bebés",
+            "subcategoria": "Accesorios Bebés",
+            "marca": "Chicco",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FChicco.png?alt=media&token=b1203607-cfe9-45d9-9645-4cb60fbafd03",
+            "producto": "Mamadera Chicco Natural Feeling Flujo Lento x 150 ml x 2un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Accesorios%20Beb%C3%A9s-4.png?alt=media&token=b438fa97-070f-4c1d-807b-ba140a0fcac4",
+            "precio": 11998
         },
         {
-            "name": "Buenos Aires",
-            "country": "Argentina",
-            "continent": "South America",
-            "description": "The waters of the Río de la Plata bathe its coast and make it the political and economic center of the country. It is the second largest urban region in South America.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FBuenosAires(Argentina).svg?alt=media&token=d3fef320-32ed-48b8-9e1b-1b9d9c0fa371"
+            "id": 5,
+            "categoria": "Bebés",
+            "subcategoria": "Accesorios Bebés",
+            "marca": "Aspen",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FAspen.png?alt=media&token=c74b9c08-e95d-4199-a925-bac451411418",
+            "producto": "Sacaleche Aspen Manual",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Accesorios%20Beb%C3%A9s-5.png?alt=media&token=3f0452b8-f188-4eae-9735-44471dc2719c",
+            "precio": 22811
         },
         {
-            "name": "Cairo",
-            "country": "Egypto",
-            "continent": "Africa",
-            "description": "Cairo is the capital of Egypt and is located in front of the Nile River. Its main tourist attractions is the Egyptian Museum where you will find historical relics such as the gold-plated artifacts of Pharaoh Tutankhamun.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FCairo(Egypt).svg?alt=media&token=1d8d3b7b-05e8-4911-aa0e-3db3381c4c49"
+            "id": 1,
+            "categoria": "Bebés",
+            "subcategoria": "Higuiene Bebés",
+            "marca": "Johnson's Baby",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FJohnson's%20Baby.png?alt=media&token=d7f299b1-3c11-4384-a92e-fea8e050c081",
+            "producto": "Aceite de Bebé Johnson's Baby Puro Humecta y Suaviza x 200 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Higuiene%20Beb%C3%A9s-1.png?alt=media&token=f392b9b4-21c3-48fa-8be7-9e018d05e9c3",
+            "precio": 2003
         },
         {
-            "name": "Dubai",
-            "country": "United Arab Emirates",
-            "continent": "Asia",
-            "description": "It is a city that offers essential tourist places, Safaris through the desert, dinner cruises, the best 5-star hotels and exclusive entertainment with all the luxuries that characterize the city.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FDubai(United%20Arab%20Emirates).svg?alt=media&token=f7458799-ca85-49d9-a754-a18c72311bf0"
+            "id": 2,
+            "categoria": "Bebés",
+            "subcategoria": "Higuiene Bebés",
+            "marca": "Hipoglós",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FHipoglos.png?alt=media&token=93c52181-4efb-4a96-be6a-ce1b89252798",
+            "producto": "Crema Hipoglós Cuidado Diario x 90 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Higuiene%20Beb%C3%A9s-2.png?alt=media&token=40d6a5f3-4c5f-45c2-98ff-09e49ddb33ff",
+            "precio": 4625.5
         },
         {
-            "name": "Hong Kong",
-            "country": "Chinese",
-            "continent": "Asia",
-            "description": "The most popular celebration is the Chinese New Year, which is usually held in January or February. Other celebrations that are also in high demand are the Dragon Boat Festival or the Lantern Festival.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FHong%20Kong(Chinese).svg?alt=media&token=bcbc82e8-fbb7-4ec6-9e81-8c710b4324c8"
+            "id": 3,
+            "categoria": "Bebés",
+            "subcategoria": "Higuiene Bebés",
+            "marca": "Johnson's Baby",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FJohnson's%20Baby.png?alt=media&token=d7f299b1-3c11-4384-a92e-fea8e050c081",
+            "producto": "Shampoo Johnson's Baby Original x 400 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Higuiene%20Beb%C3%A9s-3.png?alt=media&token=23f67501-581a-44d5-bfe7-26d4443719ee",
+            "precio": 1804.5
         },
         {
-            "name": "Johannesburg",
-            "country": "South Africa",
-            "continent": "Africa",
-            "description": "With its magnificent climate and surrounding verdant meadows, Johannesburg is South Africa's main center of tourism. A fascinating city with many faces to show, the perfect place to start exploring the continent.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FJohannesburg(South%20Africa).svg?alt=media&token=4b73fea6-b27b-4b48-abff-222c975cff4f"
+            "id": 4,
+            "categoria": "Bebés",
+            "subcategoria": "Higuiene Bebés",
+            "marca": "Johnson's Baby",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FJohnson's%20Baby.png?alt=media&token=d7f299b1-3c11-4384-a92e-fea8e050c081",
+            "producto": "Talco Johnson's Baby x 200 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Higuiene%20Beb%C3%A9s-4.png?alt=media&token=f402ac1f-8d0a-457e-a9f9-4f34d3ae2822",
+            "precio": 704
         },
         {
-            "name": "London",
-            "country": "United Kingdom",
-            "continent": "Europe",
-            "description": "London is a diverse, colourful, cosmopolitan, dazzling city. A city that has a history of more than two thousand years, but in which the modern and futuristic merge with a great profusion of arts and entertainment.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FLondon(United%20Kingdom).svg?alt=media&token=30080909-2e82-4c66-900b-ba31173dac00"
+            "id": 5,
+            "categoria": "Bebés",
+            "subcategoria": "Higuiene Bebés",
+            "marca": "Huggies",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FHuggies.png?alt=media&token=aa392d93-8de4-4b70-ba29-c47b639f2c8e",
+            "producto": "Toallas Húmedas Huggies Cuidado 4 en 1 x 48 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Higuiene%20Beb%C3%A9s-5.png?alt=media&token=b0bad56c-987b-43ba-b411-5262294577af",
+            "precio": 1385.5
         },
         {
-            "name": "Madrid",
-            "country": "Spain",
-            "continent": "Europe",
-            "description": "It is a cosmopolitan city that combines the most modern infrastructures and its status as an economic, financial, administrative and service center. It has a magnificent transport network that will allow you easy access by road, plane, train or metro.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FMadrid(Spain).svg?alt=media&token=9deeef07-c78b-45ad-8299-203dfadeff80"
+            "id": 1,
+            "categoria": "Bebés",
+            "subcategoria": "Nutrición Bebés",
+            "marca": "Nestle NAN",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FNestle%20Nan.png?alt=media&token=c9b1728b-cea4-475e-a0a5-4c8cfa577644",
+            "producto": "Fórmula Láctea Polvo Nestlé Nan 1 Optipro x 900 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Nutrici%C3%B3n%20Beb%C3%A9s-1.png?alt=media&token=bd3753eb-8f60-48a4-9b0e-bcc363e271a3",
+            "precio": 7031
         },
         {
-            "name": "Mexico City",
-            "country": "Mexico",
-            "continent": "North America",
-            "description": "It is one of the richest and most fascinating destinations in the world, not only because it is one of the three main cities with the largest number of museums, it also combines a historical legacy, full of flavor thanks to its varied gastronomic offer.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FMexico%20City(Mexico).svg?alt=media&token=af6845e1-a2df-4de8-a3b0-15f72d3fdc7a"
+            "id": 2,
+            "categoria": "Bebés",
+            "subcategoria": "Nutrición Bebés",
+            "marca": "Nutrilon",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FNutrilon.png?alt=media&token=216349c7-7bf0-4d17-8e46-0b001d6f6e7b",
+            "producto": "Leche Infantil Polvo Nutrilon Profutura 1 de 0 a 6 Meses x 800 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Nutrici%C3%B3n%20Beb%C3%A9s-2.png?alt=media&token=69ecb7d1-07b3-4205-915a-618e66bd5826",
+            "precio": 8399
         },
         {
-            "name": "New Delhi",
-            "country": "India",
-            "continent": "Asia",
-            "description": "It is a chaotic city, on the move, flooded with people. It is a mandatory stop in India and from which you can get the most out of for 3 or 4 days. In this list you will find my recommended places, some free and others where you have to pay.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FNew%20Delhi(India).svg?alt=media&token=febebf5a-7914-45fd-acc3-e976ed3b3203"
+            "id": 3,
+            "categoria": "Bebés",
+            "subcategoria": "Nutrición Bebés",
+            "marca": "Sancor",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FSancor.png?alt=media&token=620685bf-505f-44fb-9450-fa120cd5b043",
+            "producto": "Leche Infantil Polvo Sancor Bebé 1 Sabor Original de 0 a 6 Meses x 800 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Nutrici%C3%B3n%20Beb%C3%A9s-3.png?alt=media&token=146f120c-0d36-472f-872e-92af7fe02467",
+            "precio": 6708.5
         },
         {
-            "name": "New York",
-            "country": "United States",
-            "continent": "North America",
-            "description": "Rs a great city with many possibilities. The city of skyscrapers has starred in movies and novels that have made it the dream destination for many. Traveling to New York is a unique experience.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FNew%20York(United%20States).svg?alt=media&token=041743d7-5e82-4dd3-ad78-408113f47847"
+            "id": 4,
+            "categoria": "Bebés",
+            "subcategoria": "Nutrición Bebés",
+            "marca": "Vital",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FVital.png?alt=media&token=6b3605dd-c9fa-475e-b5e8-ee2f3c829047",
+            "producto": "Leche Infantil Polvo Vital 1 de 0 a 6 Meses x 800 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Nutrici%C3%B3n%20Beb%C3%A9s-4.png?alt=media&token=16d6f6f8-fdb7-4b7b-b308-44e482bfafa6",
+            "precio": 6002.5
         },
         {
-            "name": "Paris",
-            "country": "France",
-            "continent": "Europe",
-            "description": "One of the most beautiful cities in the world, it seduces first of all for its exceptional architectural and cultural heritage. A living heritage, which continues to be modernized and enriched.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FParis(France).svg?alt=media&token=e81e8421-4232-4fc1-a8d4-0b1e3a590477"
+            "id": 5,
+            "categoria": "Bebés",
+            "subcategoria": "Nutrición Bebés",
+            "marca": "PediaSure",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPediasure.png?alt=media&token=4767f981-3b2f-4581-a1c5-e1cb6e80b7f0",
+            "producto": "Suplemento Nutricional Infantil Polvo Pediasure Vainilla x 400 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FBeb%C3%A9s-Nutrici%C3%B3n%20Beb%C3%A9s-5.png?alt=media&token=ac222e30-5ca9-4aea-a778-c15609a992ad",
+            "precio": 5046.5
         },
         {
-            "name": "Rio de Janeiro",
-            "country": "Brazil",
-            "continent": "South America",
-            "description": "It receives intense international tourism and has as its greatest monuments the Sugar Loaf, the statue of Christ the Redeemer (one of the Seven Wonders of the Modern World), the traditional Carnival and the Copacabana beaches.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FRio%20de%20Janeiro(Brazil).svg?alt=media&token=7de21953-8b8f-45f3-9b07-b1e2c2471276"
+            "id": 1,
+            "categoria": "Bebés",
+            "subcategoria": "Pañales Bebés",
+            "marca": "Pampers",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPampers.png?alt=media&token=4ce79111-cf63-484c-8fb1-fd68e47a2632",
+            "producto": "Pañales Pampers Confort Sec Hipoalergénico RN+ x 36 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FB%C3%A9bes-Pa%C3%B1ales%20Beb%C3%A9s-1.png?alt=media&token=fbd72f30-5c71-49ee-8391-6a230045b6d1",
+            "precio": 2726.5
         },
         {
-            "name": "Rome",
-            "country": "Italy",
-            "continent": "Europe",
-            "description": "It is located between the Apennines and the Tyrrhenian Sea, it is also known as the Eternal City. In Rome, there are many monuments where art can be breathed, and we appreciate how the ancient mixes with the modern.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FRome(Italy).svg?alt=media&token=0afbc70a-26b9-47d2-aa79-a5927840da2f"
+            "id": 2,
+            "categoria": "Bebés",
+            "subcategoria": "Pañales Bebés",
+            "marca": "Pampers",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPampers.png?alt=media&token=4ce79111-cf63-484c-8fb1-fd68e47a2632",
+            "producto": "Pañales Pampers Pants Hipoalergénico x 40 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FB%C3%A9bes-Pa%C3%B1ales%20Beb%C3%A9s-2.png?alt=media&token=5b6a201d-618e-4afa-ba15-3fa7a127e605",
+            "precio": 6494
         },
         {
-            "name": "Sydney",
-            "country": "Australia",
-            "continent": "Oceania",
-            "description": "It offers an urban mix of rich history. To understand why this city is so unique, take the coastal cliff walk from Bondi to Coogee, where you'll pass beaches, tidal pools and lush parks.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FSydney(Australia).svg?alt=media&token=36508551-e5db-4db2-a9f9-a9bd0bbc0833"
+            "id": 3,
+            "categoria": "Bebés",
+            "subcategoria": "Pañales Bebés",
+            "marca": "Pampers",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPampers.png?alt=media&token=4ce79111-cf63-484c-8fb1-fd68e47a2632",
+            "producto": "Pañales Pampers Premium Care Plus Hipoalergénico Megapack x 26 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FB%C3%A9bes-Pa%C3%B1ales%20Beb%C3%A9s-3.png?alt=media&token=905602a7-c3c7-4f6f-bf99-e1178e6867d4",
+            "precio": 2594.5
         },
         {
-            "name": "Tokyo",
-            "country": "Japan",
-            "continent": "Asia",
-            "description": "Brimming with culture, commerce and, above all, people. The core of the world's most populous urban area, Tokyo is a fascinating and dynamic metropolis that brings high-tech visions of the future.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FTokyo(Japan).svg?alt=media&token=785c2374-4334-40f0-936b-77c1740b7d7d"
+            "id": 4,
+            "categoria": "Bebés",
+            "subcategoria": "Pañales Bebés",
+            "marca": "Huggies",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FHuggies.png?alt=media&token=aa392d93-8de4-4b70-ba29-c47b639f2c8e",
+            "producto": "Pañales Huggies Supreme Care Mega Prematuros x 30 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FB%C3%A9bes-Pa%C3%B1ales%20Beb%C3%A9s-4.png?alt=media&token=57676588-99c9-4f6a-941e-8609c4b8d2b6",
+            "precio": 2084.5
         },
         {
-            "name": "Toronto",
-            "country": "Canada",
-            "continent": "North America",
-            "description": "Its great tourist attraction is the proximity of Niagara Falls, but it does have enough attractions to spend a couple of interesting days in the city.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FToronto(Canada).svg?alt=media&token=0c4025b1-5c85-42ba-ab86-55f23ec0eb51"
+            "id": 5,
+            "categoria": "Bebés",
+            "subcategoria": "Pañales Bebés",
+            "marca": "Huggies",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FHuggies.png?alt=media&token=aa392d93-8de4-4b70-ba29-c47b639f2c8e",
+            "producto": "Pañales Huggies Supreme Care Mega Recién Nacido x 34 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FB%C3%A9bes-Pa%C3%B1ales%20Beb%C3%A9s-5.png?alt=media&token=1ffe3372-5d56-4c1e-93d1-3f7dda2d84c5",
+            "precio": 3237
+        },
+        {
+            "id": 1,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Ciudado del Cabello",
+            "marca": "Elvive",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FElvive.png?alt=media&token=d6ff1bf5-9d52-4a9b-8d39-4fe0a7f55e8d",
+            "producto": "Crema para Peinar Elvive Paris Hidra Hialurónico x 250 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Ciudado%20del%20Cabello-1.png?alt=media&token=357024cd-3fc1-420a-b709-ed820750f91c",
+            "precio": 2365
+        },
+        {
+            "id": 2,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Ciudado del Cabello",
+            "marca": "Garnier",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FGarnier.png?alt=media&token=130ebf60-4bad-460e-902f-7079f693d838",
+            "producto": "Kit Coloración Permanente Garnier Nutrisse Clásicos x 45 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Ciudado%20del%20Cabello-2.png?alt=media&token=6b4f44d7-dc8b-4ea9-8065-3db90b4fa512",
+            "precio": 1786
+        },
+        {
+            "id": 3,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Ciudado del Cabello",
+            "marca": "Pantene",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPantene.png?alt=media&token=f662dc15-06c9-416b-8c2c-47c652cb308a",
+            "producto": "Shampoo Pantene Prov Essentials Restauración x 400 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Ciudado%20del%20Cabello-3.png?alt=media&token=facdc2ee-68d0-43bc-8a38-14eb11691407",
+            "precio": 1155.5
+        },
+        {
+            "id": 4,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Ciudado del Cabello",
+            "marca": "Garnier",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FGarnier.png?alt=media&token=130ebf60-4bad-460e-902f-7079f693d838",
+            "producto": "Tratamiento Garnier Fructis Hair Food Máscara de Nutrición x 350 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Ciudado%20del%20Cabello-4.png?alt=media&token=e763ab3d-c0a5-487a-beb1-5cfa0b309c0c",
+            "precio": 1166
+        },
+        {
+            "id": 5,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Ciudado del Cabello",
+            "marca": "Elvive",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FElvive.png?alt=media&token=d6ff1bf5-9d52-4a9b-8d39-4fe0a7f55e8d",
+            "producto": "Tratamiento Intensivo Elvive Óleo Extraordinario Nutrición Universal x 100 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Ciudado%20del%20Cabello-5.png?alt=media&token=c6eaf0e8-5179-45eb-b3f4-66e6d0d7f6d5",
+            "precio": 2849
+        },
+        {
+            "id": 1,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Corporal",
+            "marca": "Rexona",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRexona.png?alt=media&token=a936cafe-8bdc-442a-9da1-f69de54f699f",
+            "producto": "Desodorante Antitranspirante Rexona Clinical Men en Aerosol x 150 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Higuiene%20Corporal-1.png?alt=media&token=9067ade3-7905-4edb-93ff-c8421fe88292",
+            "precio": 862
+        },
+        {
+            "id": 2,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Corporal",
+            "marca": "Rexona",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRexona.png?alt=media&token=a936cafe-8bdc-442a-9da1-f69de54f699f",
+            "producto": "Desodorante Antitranspirante Rexona Clinical Woman en Aerosol x 150 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Higuiene%20Corporal-2.png?alt=media&token=4bbc2fcb-3044-486d-a61f-dbefffa33536",
+            "precio": 862
+        },
+        {
+            "id": 3,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Corporal",
+            "marca": "Rexona",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRexona.png?alt=media&token=a936cafe-8bdc-442a-9da1-f69de54f699f",
+            "producto": "Desodorante para Pies Rexona Efficient Original x 100 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Higuiene%20Corporal-3.png?alt=media&token=dfccc96b-8fa5-4860-ab3d-e2c20b4c4591",
+            "precio": 399.5
+        },
+        {
+            "id": 4,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Corporal",
+            "marca": "Dove",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FDove.png?alt=media&token=8e24372f-6746-4486-83d1-4d12ea6ec877",
+            "producto": "Jabón de Tocador Dove Original Individual x 90 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Higuiene%20Corporal-4.png?alt=media&token=fedf97f9-4721-46fe-9f91-a17122dbfdd6",
+            "precio": 317
+        },
+        {
+            "id": 5,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Corporal",
+            "marca": "Gillette Venus",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FGillette%20Venus.png?alt=media&token=2ac3dc0c-5b82-4122-af18-b0fe135641df",
+            "producto": "Máquina de Afeitar Gillette Venus Desechable Suave x 4 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Higuiene%20Corporal-5.png?alt=media&token=7ceda23f-5b0c-46b7-acc8-eb6d709b26e5",
+            "precio": 1225
+        },
+        {
+            "id": 1,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Oral",
+            "marca": "Colgate",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FColgate.png?alt=media&token=80f31f03-0485-4bc8-95ac-6ceb510f2cc8",
+            "producto": "Cepillo Dental Colgate Zig Zag Plus Suave x 2 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCuidado%20Personal-Higuiene%20Oral-1.png?alt=media&token=64158c14-f3ef-4280-9454-8ceda77509e7",
+            "precio": 386.5
+        },
+        {
+            "id": 2,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Oral",
+            "marca": "Listerine",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FListerine.png?alt=media&token=320f5970-917c-43bb-8676-f951db48f7e2",
+            "producto": "Enjuague Bucal Listerine Cool Mint Frescura Intensa 2 un x 500 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCuidado%20Personal-Higuiene%20Oral-2.png?alt=media&token=a2873135-9ca6-4a1c-a121-645d44b25781",
+            "precio": 1827
+        },
+        {
+            "id": 3,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Oral",
+            "marca": "Colgate",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FColgate.png?alt=media&token=80f31f03-0485-4bc8-95ac-6ceb510f2cc8",
+            "producto": "Hilo Dental Colgate Nylon x 50 m",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCuidado%20Personal-Higuiene%20Oral-3.png?alt=media&token=9a0b1558-05b3-44ed-994c-cf69ac346394",
+            "precio": 573.5
+        },
+        {
+            "id": 4,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Oral",
+            "marca": "Colgate",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FColgate.png?alt=media&token=80f31f03-0485-4bc8-95ac-6ceb510f2cc8",
+            "producto": "Pasta Dental Colgate Luminous White Instant x 70 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCuidado%20Personal-Higuiene%20Oral-4.png?alt=media&token=e9dd50bf-e248-4bc0-ab0a-4b17e72fc8ff",
+            "precio": 928.5
+        },
+        {
+            "id": 5,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Higuiene Oral",
+            "marca": "Sensodyne",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FSensodyne.png?alt=media&token=a3c0416d-ba8a-41f1-acf7-4a5e6c6fa9b0",
+            "producto": "Pasta Dental Sensodyne Complete Protection x 90 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCuidado%20Personal-Higuiene%20Oral-5.png?alt=media&token=201b69d2-1670-4f37-adc9-5c96c827b38f",
+            "precio": 1231.5
+        },
+        {
+            "id": 1,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Protección Femenina",
+            "marca": "Evacopa",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FEvacopa.png?alt=media&token=276e05ff-3f86-4390-ad57-d36c9a8ed16d",
+            "producto": "Copa Menstrual Hipoalergénica Evacopa Talle 1",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Protecci%C3%B3n%20Femenina-1.png?alt=media&token=4480f8a5-83f0-4eef-ab99-b60bf409090e",
+            "precio": 4088.5
+        },
+        {
+            "id": 2,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Protección Femenina",
+            "marca": "Lactacyd",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLactacyd.png?alt=media&token=f7a61a28-688a-4807-9ea0-cfd8a99036fe",
+            "producto": "Jabón Líquido para Higiene Íntima Lactacyd Pro Bio Femina Floral x 200 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Protecci%C3%B3n%20Femenina-2.png?alt=media&token=580284b6-8791-46a3-bfe9-71d616c7c6d0",
+            "precio": 3635
+        },
+        {
+            "id": 3,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Protección Femenina",
+            "marca": "Carefree",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCarefree.png?alt=media&token=c2a7cc0e-9fe5-4dec-9d5e-b727e918a37b",
+            "producto": "Protectores Diarios Carefree Todos los Días x 60 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Protecci%C3%B3n%20Femenina-3.png?alt=media&token=48d6e075-3329-4fd9-add6-97a17e11a04f",
+            "precio": 2083.5
+        },
+        {
+            "id": 4,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Protección Femenina",
+            "marca": "O.B.",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FO.B..png?alt=media&token=6eb0320d-8621-402c-870b-e614725327a4",
+            "producto": "Tampones O.B Originales Medio x 16 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Protecci%C3%B3n%20Femenina-4.png?alt=media&token=15e01c72-ae79-4f76-a635-b9076bf2d18d",
+            "precio": 749
+        },
+        {
+            "id": 5,
+            "categoria": "Ciudado Personal",
+            "subcategoria": "Protección Femenina",
+            "marca": "Kotex",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FKotex.png?alt=media&token=a5e25554-506d-434a-97b5-b1618d2a05e5",
+            "producto": "Toallas Femeninas Kotex Esencial Normal con Alas x 16 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FCiudado%20Personal-Protecci%C3%B3n%20Femenina-5.png?alt=media&token=4e822821-ddde-46cb-b9a2-1f914b9d17fa",
+            "precio": 639.5
+        },
+        {
+            "id": 1,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Cabello",
+            "marca": "Isdin",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FIsdin.png?alt=media&token=bce629f9-0051-4ed8-82fa-8042e5f1ec76",
+            "producto": "Loción en Spray Isdin Lambdapil Anticaída x 125 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Cabello-1.png?alt=media&token=3db58185-fe97-4d3a-a8bc-0194d561b39b",
+            "precio": 27300
+        },
+        {
+            "id": 2,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Cabello",
+            "marca": "Klorane",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FKlorane.png?alt=media&token=de0df422-16e6-44fe-9e83-b88c70b96319",
+            "producto": "Shampoo Anticaida Klorane x 200 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Cabello-2.png?alt=media&token=2928c490-898d-4714-9e0d-e133712c11f4",
+            "precio": 6089
+        },
+        {
+            "id": 3,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Cabello",
+            "marca": "Vichy",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FVichy.png?alt=media&token=35c0fe65-1072-4f57-b7c8-5dda94931817",
+            "producto": "Shampoo Anticaída Vichy Dercos Energizante x 200 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Cabello-3.png?alt=media&token=ccb41378-b1c4-4ac6-8d78-eaca47973c3d",
+            "precio": 8805
+        },
+        {
+            "id": 4,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Cabello",
+            "marca": "Vichy",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FVichy.png?alt=media&token=35c0fe65-1072-4f57-b7c8-5dda94931817",
+            "producto": "Shampoo Anticaspa Vichy Dercos para Cabello Normal a Graso x 200 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Cabello-4.png?alt=media&token=ecbbeb5e-2805-4375-8669-120dc0139929",
+            "precio": 8780
+        },
+        {
+            "id": 5,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Cabello",
+            "marca": "Eucerin",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FEucerin.png?alt=media&token=a45857b2-5848-4e88-bb99-0844d15163cf",
+            "producto": "Shampoo Gel Anticaspa Eucerin DermoCapillaire para Dermatitis Seborreica x 250 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Cabello-5.png?alt=media&token=f1043537-18b9-4709-bc54-31d09caf5537",
+            "precio": 5435
+        },
+        {
+            "id": 1,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Corporal",
+            "marca": "La Roche-Posay",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLa%20Roche-Posay.png?alt=media&token=fd42fae5-e28a-48b0-8b6d-2b08b377ee72",
+            "producto": "Bálsamo Reparador La Roche Posay Lipikar Baume AP+M Piel Sensible, Seca y Atópica x 400 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Corporal-1.png?alt=media&token=3393ce51-ca4a-4d80-97ea-6d5b6f59ba62",
+            "precio": 21165
+        },
+        {
+            "id": 2,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Corporal",
+            "marca": "Avéne",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FAv%C3%A9ne.png?alt=media&token=8c6e8d2a-5bcc-4afd-9bfb-6dde5a4b17e4",
+            "producto": "Crema Reparadora de Manos Avéne Cicalfate Efecto Barrera x 100 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Corporal-2.png?alt=media&token=59ca466a-2143-4148-8f8b-f60e705a9caf",
+            "precio": 8304
+        },
+        {
+            "id": 3,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Corporal",
+            "marca": "La Roche-Posay",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLa%20Roche-Posay.png?alt=media&token=fd42fae5-e28a-48b0-8b6d-2b08b377ee72",
+            "producto": "Crema Reparadora de Manos La Roche-Posay Cicaplast Mains x 50 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Corporal-3.png?alt=media&token=fd418539-9bf6-429e-8e40-6c0aad80cc4c",
+            "precio": 10815
+        },
+        {
+            "id": 4,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Corporal",
+            "marca": "Eucerin",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FEucerin.png?alt=media&token=a45857b2-5848-4e88-bb99-0844d15163cf",
+            "producto": "Loción Corporal Hidratante Eucerin UreaRepair Plus 10% para Piel Seca x 400 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Corporal-5.png?alt=media&token=3566f3e4-e392-46ef-b8c2-054c7df2ebd5",
+            "precio": 17852
+        },
+        {
+            "id": 5,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Corporal",
+            "marca": "Cetaphil",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCetaphil.png?alt=media&token=2376a49e-8657-4f56-921d-76abc3687249",
+            "producto": "Loción Corporal Humenctante Cetaphil x 237 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Corporal-4.png?alt=media&token=71cb4611-3671-4b54-a632-02e1b485bd08",
+            "precio": 6790
+        },
+        {
+            "id": 1,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Limpieza",
+            "marca": "Garnier",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FGarnier.png?alt=media&token=130ebf60-4bad-460e-902f-7079f693d838",
+            "producto": "Agua Micelar Garnier Skin Active x 400 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Limpieza-1.png?alt=media&token=cc642dfe-5d49-4802-b264-e77e064519be",
+            "precio": 3381.5
+        },
+        {
+            "id": 2,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Limpieza",
+            "marca": "Aveno",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FAveno.png?alt=media&token=ca0c007b-d2d0-4ff5-b3be-f39556c72a88",
+            "producto": "Gel de Limpieza Facial Aveno x 250 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Limpieza-2.png?alt=media&token=11218e6c-e4b3-4eae-a50f-27ebef306dfe",
+            "precio": 5357.5
+        },
+        {
+            "id": 3,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Limpieza",
+            "marca": "La Roche-Posay",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLa%20Roche-Posay.png?alt=media&token=fd42fae5-e28a-48b0-8b6d-2b08b377ee72",
+            "producto": "Gel de Limpieza Corporal Lipikar x 200 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Limpieza-4.png?alt=media&token=65a5a59d-1176-4506-93b2-afbe5da64753",
+            "precio": 7110
+        },
+        {
+            "id": 4,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Limpieza",
+            "marca": "L'Oreal París",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FL'Oreal%20Par%C3%ADs.png?alt=media&token=ba2540ff-2c22-4ee3-ac62-78293fef4bc5",
+            "producto": "Gel de Limpieza Facial L'Oreal Oil Control  París Revitalift Ácido Hialurónico x 150 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Limpieza-3.png?alt=media&token=718981ec-d945-4c8b-998b-d816e03363f6",
+            "precio": 2987
+        },
+        {
+            "id": 5,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Limpieza",
+            "marca": "Dermaglós",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FDermaglos.png?alt=media&token=ab04ccb1-d07d-434a-b345-c91e306d4e0e",
+            "producto": "Leche Facial Dermaglós Limpieza Activa x 200 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Limpieza-5.png?alt=media&token=cf192556-338e-4351-acff-cd1a35cc258a",
+            "precio": 2887.5
+        },
+        {
+            "id": 1,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Rostro",
+            "marca": "Avéne",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FAv%C3%A9ne.png?alt=media&token=8c6e8d2a-5bcc-4afd-9bfb-6dde5a4b17e4",
+            "producto": "Agua Termal Avéne x 300 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Rostro-1.png?alt=media&token=3665ed2d-2f3e-4780-9713-75e63f362a4a",
+            "precio": 11240
+        },
+        {
+            "id": 2,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Rostro",
+            "marca": "La Roche-Posay",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLa%20Roche-Posay.png?alt=media&token=fd42fae5-e28a-48b0-8b6d-2b08b377ee72",
+            "producto": "Bálsamo Facial La Roche-Posay Cicaplast B5+ x 100 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Rostro-2.png?alt=media&token=b6b6431d-1711-49e2-9ccd-f3f482a88819",
+            "precio": 10750
+        },
+        {
+            "id": 3,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Rostro",
+            "marca": "La Roche-Posay",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLa%20Roche-Posay.png?alt=media&token=fd42fae5-e28a-48b0-8b6d-2b08b377ee72",
+            "producto": "Crema Hidratante Facial La Roche-Posay Toleriane Sensitive Hidratante X 40 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Rostro-3.png?alt=media&token=a0b6bb65-b1d1-412d-aef1-afd4611d3af0",
+            "precio": 10555
+        },
+        {
+            "id": 4,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Rostro",
+            "marca": "Vichy",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FVichy.png?alt=media&token=35c0fe65-1072-4f57-b7c8-5dda94931817",
+            "producto": "Contorno de Ojos Vichy Mineral 89 x 15 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Rostro-4.png?alt=media&token=aecf5838-45a6-4935-88f6-39ac47f5aa6d",
+            "precio": 12795
+        },
+        {
+            "id": 5,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Rostro",
+            "marca": "L'Oreal París",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FL'Oreal%20Par%C3%ADs.png?alt=media&token=ba2540ff-2c22-4ee3-ac62-78293fef4bc5",
+            "producto": "Sérum Rellenador L'Oreal París Revitalift Ácido Hialurónico x 30 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Rostro-5.png?alt=media&token=6c6d728d-63c8-4c53-a9fe-72ffcb15ea71",
+            "precio": 8174
+        },
+        {
+            "id": 1,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Solar",
+            "marca": "Isdin",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FIsdin.png?alt=media&token=bce629f9-0051-4ed8-82fa-8042e5f1ec76",
+            "producto": "Fotoprotector Facial Isdin Fusion Water Urban Spf 30 x 50 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Solar-1.png?alt=media&token=c895f5f1-354e-44f9-884e-1cd7f506cc42",
+            "precio": 12825
+        },
+        {
+            "id": 2,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Solar",
+            "marca": "Dermaglós",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FDermaglos.png?alt=media&token=ab04ccb1-d07d-434a-b345-c91e306d4e0e",
+            "producto": "Protector Solar Corporal Dermaglós Fps 50 x 250 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Solar-2.png?alt=media&token=aa373c56-d98c-4350-842b-91fa264291b5",
+            "precio": 4877
+        },
+        {
+            "id": 3,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Solar",
+            "marca": "Eucerin",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FEucerin.png?alt=media&token=a45857b2-5848-4e88-bb99-0844d15163cf",
+            "producto": "Protector Solar Eucerin Oil Control Sun Face Toque Seco Tono Medio Fps 50 x 50 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Solar-3.png?alt=media&token=e2d98852-0e14-41d2-81a8-d0ebb059eebb",
+            "precio": 9278
+        },
+        {
+            "id": 4,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Solar",
+            "marca": "La Roche-Posay",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLa%20Roche-Posay.png?alt=media&token=fd42fae5-e28a-48b0-8b6d-2b08b377ee72",
+            "producto": "Protector Solar La Roche Posay Anthelios FPS 50+ x 50 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Solar-4.png?alt=media&token=57bb9eb5-a11b-4e85-8937-30caa6b15393",
+            "precio": 10490
+        },
+        {
+            "id": 5,
+            "categoria": "Dermocósmetica",
+            "subcategoria": "Solar",
+            "marca": "La Roche-Posay",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLa%20Roche-Posay.png?alt=media&token=fd42fae5-e28a-48b0-8b6d-2b08b377ee72",
+            "producto": "Protector Solar La Roche Posay Anthelios UV Mune 400 Fluido Invisible Spf 50+ x 50 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FDermoc%C3%B3smetica-Solar-5.png?alt=media&token=541d872a-ab1d-4a6e-bffd-9e09fde50f83",
+            "precio": 11650
+        },
+        {
+            "id": 1,
+            "categoria": "Farmacia",
+            "subcategoria": "Complementos de Farmacia",
+            "marca": "Atom Protect",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FAtom%20Protect.png?alt=media&token=981debca-6441-4511-8410-61035c36449c",
+            "producto": "Barbijo Atom Protect Bicapa Bioactivo Conicet Adultos",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Complementos%20de%20Farmacia-1.png?alt=media&token=5ca86c36-21af-4cdf-8343-4a51ec9b0f89",
+            "precio": 575.5
+        },
+        {
+            "id": 2,
+            "categoria": "Farmacia",
+            "subcategoria": "Complementos de Farmacia",
+            "marca": "Johnson's and Johnson's",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FJohnson's%20and%20Johnson's.png?alt=media&token=d64eca59-bc3e-4f4c-be51-becbf2ae5797",
+            "producto": "Hisópos Flexibles Johnson's and Johnson's Cotonetes x 150 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Complementos%20de%20Farmacia-2.png?alt=media&token=f2721100-cbc4-47ff-98a3-6cef584a0790",
+            "precio": 386.5
+        },
+        {
+            "id": 3,
+            "categoria": "Farmacia",
+            "subcategoria": "Complementos de Farmacia",
+            "marca": "Tulipán",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FTulipan.png?alt=media&token=e6500be6-fa88-4c27-b25e-0cf52ff89288",
+            "producto": "Lubricante en Gel Uso Íntimo Tulipán Clásico x 30 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Complementos%20de%20Farmacia-3.png?alt=media&token=9d5dca71-aeaa-441f-8a66-8f6443cc8f52",
+            "precio": 1095
+        },
+        {
+            "id": 4,
+            "categoria": "Farmacia",
+            "subcategoria": "Complementos de Farmacia",
+            "marca": "Tulipán",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FTulipan.png?alt=media&token=e6500be6-fa88-4c27-b25e-0cf52ff89288",
+            "producto": "Preservativo de Látex Tulipán Lubricados Clásicos x 12 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Complementos%20de%20Farmacia-4.png?alt=media&token=83276f5e-d1cf-40e8-ae52-0832b6331d59",
+            "precio": 2119.5
+        },
+        {
+            "id": 5,
+            "categoria": "Farmacia",
+            "subcategoria": "Complementos de Farmacia",
+            "marca": "Evatest",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FEvatest.png?alt=media&token=438dd72f-b706-46d6-a8bf-c017926f8a49",
+            "producto": "Test de Embarazo Evatest x 1 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Complementos%20de%20Farmacia-5.png?alt=media&token=183d4137-44b7-4827-b14f-464a9d81081c",
+            "precio": 1305
+        },
+        {
+            "id": 1,
+            "categoria": "Farmacia",
+            "subcategoria": "Electrosalud",
+            "marca": "Vicks",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FVicks.png?alt=media&token=0f1f743c-8dff-4aca-a5bf-73c2d03e05d2",
+            "producto": "Humidificador Ultrasónico Vicks De Vapor Frio Vul520war",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Electrosalud-1.png?alt=media&token=b5a8e16c-d5de-4931-8812-c4fc29adc344",
+            "precio": 28999
+        },
+        {
+            "id": 2,
+            "categoria": "Farmacia",
+            "subcategoria": "Electrosalud",
+            "marca": "Aspen",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FAspen.png?alt=media&token=c74b9c08-e95d-4199-a925-bac451411418",
+            "producto": "Nebulizador Ultrasónico Aspen Ultra Silencioso Nu320",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Electrosalud-2.png?alt=media&token=b19c254d-feb8-4a53-a877-5ca0aad07ab6",
+            "precio": 39599
+        },
+        {
+            "id": 3,
+            "categoria": "Farmacia",
+            "subcategoria": "Electrosalud",
+            "marca": "Coronet",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCoronet.png?alt=media&token=cc862f6e-e222-4d8b-99b2-5c2ab6adef75",
+            "producto": "Oxímetro De Pulso Coronet POD-2",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Electrosalud-3.png?alt=media&token=948015fd-c957-4cf7-84f3-f5ea5fe782f3",
+            "precio": 7349.5
+        },
+        {
+            "id": 4,
+            "categoria": "Farmacia",
+            "subcategoria": "Electrosalud",
+            "marca": "Omron",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FOmron.png?alt=media&token=87239960-2ad8-4717-b332-0b3f2661b7ec",
+            "producto": "Tensiómetro Automático Omron de Brazo HEM 7120",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Electrosalud-4.png?alt=media&token=0d9d8a62-9c15-4a66-a8af-40912bb5a431",
+            "precio": 26016.5
+        },
+        {
+            "id": 5,
+            "categoria": "Farmacia",
+            "subcategoria": "Electrosalud",
+            "marca": "Aspen",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FAspen.png?alt=media&token=c74b9c08-e95d-4199-a925-bac451411418",
+            "producto": "Termómetro Digital Aspen MT 31",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Electrosalud-5.png?alt=media&token=a24ddbdf-e67b-493e-b96b-69e42465a21b",
+            "precio": 1859
+        },
+        {
+            "id": 1,
+            "categoria": "Farmacia",
+            "subcategoria": "Medicamentos",
+            "marca": "Pfizer",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPfizer.png?alt=media&token=ea7b4033-6fe2-41df-8eda-1119a4b1c594",
+            "producto": "Ibupirac Pfizer Capsulas Blandas 400 X 12 Cap",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Medicamentos-1.png?alt=media&token=71230fdb-8094-4f25-af95-af2702460cbc",
+            "precio": 598.25
+        },
+        {
+            "id": 2,
+            "categoria": "Farmacia",
+            "subcategoria": "Medicamentos",
+            "marca": "Pfizer",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPfizer.png?alt=media&token=ea7b4033-6fe2-41df-8eda-1119a4b1c594",
+            "producto": "Ibupirac Pfizer Fem Comprimidos Recubiertos X 10 Comp",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Medicamentos-2.png?alt=media&token=ac16ff66-4f94-4862-bbce-ad763645536c",
+            "precio": 443.25
+        },
+        {
+            "id": 3,
+            "categoria": "Farmacia",
+            "subcategoria": "Medicamentos",
+            "marca": "Bayer",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FBayer.png?alt=media&token=9db8a2e3-47df-4692-b570-e07713788373",
+            "producto": "Paracetamol Bayer Comprimidos 500 X 30 Comp",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Medicamentos-3.png?alt=media&token=e4591531-a745-45bb-aa0a-e812081880d4",
+            "precio": 979
+        },
+        {
+            "id": 4,
+            "categoria": "Farmacia",
+            "subcategoria": "Medicamentos",
+            "marca": "Biosintex",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FBiosintex.png?alt=media&token=2565daf2-7232-4acb-b05d-0e265fa282f8",
+            "producto": "Tavinex Antigripal Biosintex Comprimidos X 8 Comp",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Medicamentos-4.png?alt=media&token=1a773242-222a-4f4d-b452-d7002f828418",
+            "precio": 187.5
+        },
+        {
+            "id": 5,
+            "categoria": "Farmacia",
+            "subcategoria": "Medicamentos",
+            "marca": "Isa",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FIsa.png?alt=media&token=c81f3e68-ad8c-4803-861a-3a629f7e55aa",
+            "producto": "Treg Isa 20 mg Capsulas X 15 Cap",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Medicamentos-5.png?alt=media&token=3310f4e9-0374-4f5d-bdcf-57c1bc108f90",
+            "precio": 693.75
+        },
+        {
+            "id": 1,
+            "categoria": "Farmacia",
+            "subcategoria": "Nutrición Adultos",
+            "marca": "Natures Bounty",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FNatures%20Bounty.png?alt=media&token=93e6b92f-8adf-4c58-954f-6cf118c664c2",
+            "producto": "Natures Bounty Hair Skin & Nails Gummies x 80 Comp",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Nutrici%C3%B3n%20Adultos-1.png?alt=media&token=79cef13a-4c42-4023-bbfe-92726c8c5f18",
+            "precio": 7020
+        },
+        {
+            "id": 2,
+            "categoria": "Farmacia",
+            "subcategoria": "Nutrición Adultos",
+            "marca": "Centrum",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCentrum.png?alt=media&token=5e12caaa-73ab-4fde-8617-f93f82955234",
+            "producto": "Suplemento Dietario Centrum Adulto Multivitamínico x 30 Comp",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Nutrici%C3%B3n%20Adultos-2.png?alt=media&token=c59ca6a9-30eb-4cc0-92dc-55b9de7d373c",
+            "precio": 2538
+        },
+        {
+            "id": 3,
+            "categoria": "Farmacia",
+            "subcategoria": "Nutrición Adultos",
+            "marca": "Ena",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FEna.png?alt=media&token=ff1bdcc6-22b8-44c8-bf6f-1edeb1ad2914",
+            "producto": "Suplemento Dietario Ena Muscle Max a base de aminoácidos x 90 Tabletas",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Nutrici%C3%B3n%20Adultos-3.png?alt=media&token=20114332-5ce1-42db-802d-aa7b68c71c54",
+            "precio": 3400
+        },
+        {
+            "id": 4,
+            "categoria": "Farmacia",
+            "subcategoria": "Nutrición Adultos",
+            "marca": "Pure Wellness",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPure%20Wellness.png?alt=media&token=9e08d8b0-d3d2-48f7-a6cc-0b05421c7b80",
+            "producto": "Suplemento Dietario Pure Wellness Colágeno x 500 g x 60 Comp",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Nutrici%C3%B3n%20Adultos-4.png?alt=media&token=26059782-7049-412c-987b-dca6b2d30ec6",
+            "precio": 2290
+        },
+        {
+            "id": 5,
+            "categoria": "Farmacia",
+            "subcategoria": "Nutrición Bebés",
+            "marca": "Redoxon",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRedoxon.png?alt=media&token=de46bbb3-861e-43e8-a778-6307d91cf3f5",
+            "producto": "Suplemento Dietario Redoxon a Base de Vitamina C Efervescente x 1 g x 30 Comprimidos",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Nutrici%C3%B3n%20Adultos-5.png?alt=media&token=76604da9-e300-40d0-a714-c24643019ee8",
+            "precio": 3758.5
+        },
+        {
+            "id": 1,
+            "categoria": "Farmacia",
+            "subcategoria": "Pañales, Protectores de Cama y Toallas",
+            "marca": "Plenitud",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPlenitud.png?alt=media&token=4590f434-0aa5-4d62-a254-205b5ed93ab7",
+            "producto": "Pañales para Adulto Plenitud Protect x 8 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Pa%C3%B1ales%2C%20Protectores%20de%20Cama%20y%20Toallas-1.png?alt=media&token=33bc40e5-1636-488c-9657-941039207510",
+            "precio": 4030.5
+        },
+        {
+            "id": 2,
+            "categoria": "Farmacia",
+            "subcategoria": "Pañales, Protectores de Cama y Toallas",
+            "marca": "Tena",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FTena.png?alt=media&token=0a807102-cebb-4b75-b10c-6afab59ea8f6",
+            "producto": "Pañal para Adulto Tena Slip Large x 21 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Pa%C3%B1ales%2C%20Protectores%20de%20Cama%20y%20Toallas-2.png?alt=media&token=0cfb9719-c93c-401e-ab07-81993125ff94",
+            "precio": 9021
+        },
+        {
+            "id": 3,
+            "categoria": "Farmacia",
+            "subcategoria": "Pañales, Protectores de Cama y Toallas",
+            "marca": "Nonisec",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FNonisec.png?alt=media&token=4a008c28-c4cd-4505-9382-f7be5969fd76",
+            "producto": "Protectores de Cama Descartables Nonisec Único Regular x 10 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Pa%C3%B1ales%2C%20Protectores%20de%20Cama%20y%20Toallas-3.png?alt=media&token=49f62fdd-8866-4dbb-ab7d-9393446dd8b3",
+            "precio": 3337.5
+        },
+        {
+            "id": 4,
+            "categoria": "Farmacia",
+            "subcategoria": "Pañales, Protectores de Cama y Toallas",
+            "marca": "Plenitud",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPlenitud.png?alt=media&token=4590f434-0aa5-4d62-a254-205b5ed93ab7",
+            "producto": "Ropa Interior Plenitud Protect Plus - Talle P/M | 8 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Pa%C3%B1ales%2C%20Protectores%20de%20Cama%20y%20Toallas-4.png?alt=media&token=418ae2ca-0b4f-4dab-9f35-f8e0924fd816",
+            "precio": 4461.5
+        },
+        {
+            "id": 5,
+            "categoria": "Farmacia",
+            "subcategoria": "Pañales, Protectores de Cama y Toallas",
+            "marca": "Plenitud",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPlenitud.png?alt=media&token=4590f434-0aa5-4d62-a254-205b5ed93ab7",
+            "producto": "Toallas para Incontinencia Plenitud Femme Normal Plus x 8 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Pa%C3%B1ales%2C%20Protectores%20de%20Cama%20y%20Toallas-5.png?alt=media&token=6adfcbf0-61e8-4b3a-a556-cc9db34a1daf",
+            "precio": 718
+        },
+        {
+            "id": 1,
+            "categoria": "Farmacia",
+            "subcategoria": "Primeros Auxilios",
+            "marca": "Bialcohol",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FBialcohol.png?alt=media&token=66cb1382-b1e9-484e-ab51-ceb2f77562bc",
+            "producto": "Alcohol Etílico 70 % Bialcohol x 1 l",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Primeros%20Auxilios-1.png?alt=media&token=85e2331c-be96-4495-b96d-4c85cd33a0c3",
+            "precio": 1169.5
+        },
+        {
+            "id": 2,
+            "categoria": "Farmacia",
+            "subcategoria": "Primeros Auxilios",
+            "marca": "Curitas",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCuritas.png?alt=media&token=88141836-b47f-4530-a266-42a74cdaa2ba",
+            "producto": "Apósitos Adhesivos Curitas Transpiel Resistentes al Agua x 20 un",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Primeros%20Auxilios-2.png?alt=media&token=9eb05f54-d151-4276-b02d-a779ed1fe25b",
+            "precio": 450
+        },
+        {
+            "id": 3,
+            "categoria": "Farmacia",
+            "subcategoria": "Primeros Auxilios",
+            "marca": "Nexcare",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FNexcare.png?alt=media&token=3957a773-0bcd-4dad-a10f-8997332c4e34",
+            "producto": "Cinta Adhesiva Nexcare Transparente x 12,5 mm x 9 m",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Primeros%20Auxilios-3.png?alt=media&token=fd90a802-1775-49f4-935a-da6629220275",
+            "precio": 681
+        },
+        {
+            "id": 4,
+            "categoria": "Farmacia",
+            "subcategoria": "Primeros Auxilios",
+            "marca": "Lysoform",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FLysoform.png?alt=media&token=b6cfa3ac-b65e-445a-9ef3-3e9452f3247f",
+            "producto": "Sanitizante para Manos Lysoform Floral x 47 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Primeros%20Auxilios-4.png?alt=media&token=e3eff69f-a111-4aaf-a086-460f08b14609",
+            "precio": 519
+        },
+        {
+            "id": 5,
+            "categoria": "Farmacia",
+            "subcategoria": "Primeros Auxilios",
+            "marca": "Poen",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FPoen.png?alt=media&token=ecc1c592-c9eb-4613-b021-e2fc46ccc006",
+            "producto": "Solución Multiuso Poen Arlyt Express x 360 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FFarmacia-Primeros%20Auxilios-5.png?alt=media&token=22d02570-392e-4ca3-859b-ca8102460b46",
+            "precio": 2800           
+        },
+        {
+            "id": 1,
+            "categoria": "Maquillaje",
+            "subcategoria": "Labios",
+            "marca": "L'Oreal París",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FL'Oreal%20Par%C3%ADs.png?alt=media&token=ba2540ff-2c22-4ee3-ac62-78293fef4bc5",
+            "producto": "Barra de Labios L'Oreal Paris Color Riche Intense Volume Matte x 3,6 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Labios-1.png?alt=media&token=52cbc231-040e-4275-8c12-0c6e333f3c74",
+            "precio": 5693
+        },
+        {
+            "id": 2,
+            "categoria": "Maquillaje",
+            "subcategoria": "Labios",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Crayon de Labios Maybelline Superstay Ink Crayon x 1,5 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Labios-2.png?alt=media&token=d8600674-8dd6-4507-8bfc-4c8655bf2def",
+            "precio": 6164.5
+        },
+        {
+            "id": 3,
+            "categoria": "Maquillaje",
+            "subcategoria": "Labios",
+            "marca": "Revlon",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRevlon.png?alt=media&token=874fa297-7fe9-415a-9a57-f41027758684",
+            "producto": "Delineador de Labios Revlon Colorstay x 0,28 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Labios-3.png?alt=media&token=90d2d179-e3dd-44ac-bfe1-520c3ecef5d6",
+            "precio": 3585.75
+        },
+        {
+            "id": 4,
+            "categoria": "Maquillaje",
+            "subcategoria": "Labios",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Labial Líquido Maybelline Super Stay Matte Ink x 5 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Labios-4.png?alt=media&token=5f57b48a-1b9c-4334-ac05-5d886fa9710d",
+            "precio": 6285.75
+        },
+        {
+            "id": 5,
+            "categoria": "Maquillaje",
+            "subcategoria": "Labios",
+            "marca": "Rimmel",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRimmel%20London.png?alt=media&token=aa4f5353-1dcc-458f-9345-b1f44c911c05",
+            "producto": "Labial Líquido Rimmel London Lasting Provocalips x 2,3 ml / 1.6 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Labios-5.png?alt=media&token=461376ad-13b9-4114-b8ee-e81ef22cc475",
+            "precio": 4101.75
+        },
+        {
+            "id": 1,
+            "categoria": "Maquillaje",
+            "subcategoria": "Ojos",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Delineador de Ojos Maybelline Tattoo Liner x 1,3 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Ojos-1.png?alt=media&token=fb7eb589-b7ba-449a-b883-483365712775",
+            "precio": 5144
+        },
+        {
+            "id": 2,
+            "categoria": "Maquillaje",
+            "subcategoria": "Ojos",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Delineador de Ojos Líquido Maybelline Gel Tattoo Liner x 2,5 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Ojos-2.png?alt=media&token=553fd1e9-3fd6-4367-b953-735c0ef9c8ab",
+            "precio": 5805.5
+        },
+        {
+            "id": 3,
+            "categoria": "Maquillaje",
+            "subcategoria": "Ojos",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Lápiz de Cejas Maybelline Tatto Studio Deep 4,8 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Ojos-3.png?alt=media&token=b5930bf5-488f-40f3-80c0-6bc4cea26cd2",
+            "precio": 5113
+        },
+        {
+            "id": 4,
+            "categoria": "Maquillaje",
+            "subcategoria": "Ojos",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Máscara de Pestañas Maybelline Sensational Sky High Waterproof Very Black x 7,2 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Ojos-4.png?alt=media&token=3f96a9ce-55c1-4725-807f-fa365cab6051",
+            "precio": 8444
+        },
+        {
+            "id": 5,
+            "categoria": "Maquillaje",
+            "subcategoria": "Ojos",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Sombra de Ojos Maybelline The City Mini Palette x 4 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Ojos-5.png?alt=media&token=4b8ee622-fbd4-4927-82bf-d54a010960d7",
+            "precio": 6536
+        },
+        {
+            "id": 1,
+            "categoria": "Maquillaje",
+            "subcategoria": "Rostro",
+            "marca": "L'Oreal París",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FL'Oreal%20Par%C3%ADs.png?alt=media&token=ba2540ff-2c22-4ee3-ac62-78293fef4bc5",
+            "producto": "Base en Polvo Compacto L'Oreal Paris Infaillible Fresh Wear x 9 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Rostro-1.png?alt=media&token=ba1af86f-1bac-471d-ad83-bff30000c42d",
+            "precio": 7302
+        },
+        {
+            "id": 2,
+            "categoria": "Maquillaje",
+            "subcategoria": "Rostro",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Base en Polvo Compacto Maybelline Fit Me Matte x 12 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Rostro-2.png?alt=media&token=be78a40f-2b26-4c2a-b094-18bcc6517b40",
+            "precio": 3329.81
+        },
+        {
+            "id": 3,
+            "categoria": "Maquillaje",
+            "subcategoria": "Rostro",
+            "marca": "Maybelline",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FMaybelline.png?alt=media&token=f2194db5-34ab-4976-9baa-d0c5ce23e9f8",
+            "producto": "Base Líquida de Maquillaje Maybelline Fit Me Matte Poreless Foundation x 30 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Rostro-3.png?alt=media&token=509ef31c-ca15-4289-9438-d663e70ceead",
+            "precio": 5161.2
+        },
+        {
+            "id": 4,
+            "categoria": "Maquillaje",
+            "subcategoria": "Rostro",
+            "marca": "L'Oreal París",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FL'Oreal%20Par%C3%ADs.png?alt=media&token=ba2540ff-2c22-4ee3-ac62-78293fef4bc5",
+            "producto": "Corrector de Ojeras L'Oreal París Infallible Full Wear x 11 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Rostro-4.png?alt=media&token=ecdf6fce-03cb-41d7-b993-f0e4bc746dce",
+            "precio": 5297.81
+        },
+        {
+            "id": 5,
+            "categoria": "Maquillaje",
+            "subcategoria": "Rostro",
+            "marca": "Rimmel",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRimmel%20London.png?alt=media&token=aa4f5353-1dcc-458f-9345-b1f44c911c05",
+            "producto": "Paleta de Rubores Rimmel Sculpting Palette Coral Glow 002 x 19 g",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-Rostro-5.png?alt=media&token=e1c82533-ca96-4661-947e-f03dbb8ff79a",
+            "precio": 5963.44
+        },
+        {
+            "id": 1,
+            "categoria": "Maquillaje",
+            "subcategoria": "Uñas",
+            "marca": "Cutex",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCutex.png?alt=media&token=4661c252-13d2-435e-b7e8-b8928669aec9",
+            "producto": "Base Endurecedora para Uñas Cutex Hipoalergénico x 6 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-U%C3%B1as-1.png?alt=media&token=2b480338-0217-4f67-bafb-eb3f4e148030",
+            "precio": 804.5
+        },
+        {
+            "id": 2,
+            "categoria": "Maquillaje",
+            "subcategoria": "Uñas",
+            "marca": "Cutex",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCutex.png?alt=media&token=4661c252-13d2-435e-b7e8-b8928669aec9",
+            "producto": "Esmalte de Uñas Cutex Hipoalergénico Vegano x 6,4 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-U%C3%B1as-2.png?alt=media&token=645a89f0-a1b3-4eaa-a58e-0b97bb7daed8",
+            "precio": 804.5
+        },
+        {
+            "id": 3,
+            "categoria": "Maquillaje",
+            "subcategoria": "Uñas",
+            "marca": "Revlon",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FRevlon.png?alt=media&token=874fa297-7fe9-415a-9a57-f41027758684",
+            "producto": "Esmalte de Uñas Revlon Ultra HD Snap x 8 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-U%C3%B1as-3.png?alt=media&token=f61c5c55-0f95-4c46-80ad-343e44219095",
+            "precio": 3379
+        },
+        {
+            "id": 4,
+            "categoria": "Maquillaje",
+            "subcategoria": "Uñas",
+            "marca": "Isdin",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FIsdin.png?alt=media&token=bce629f9-0051-4ed8-82fa-8042e5f1ec76",
+            "producto": "Fortalecedor de Uñas Isdin Si-Nails x 2,5 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-U%C3%B1as-4.png?alt=media&token=5f26419d-de3d-40eb-b170-19aad721a086",
+            "precio": 10715
+        },
+        {
+            "id": 5,
+            "categoria": "Maquillaje",
+            "subcategoria": "Uñas",
+            "marca": "Cutex",
+            "fotoMarca": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/marcas%2FCutex.png?alt=media&token=4661c252-13d2-435e-b7e8-b8928669aec9",
+            "producto": "Quitaesmalte Sin Acetona Cutex x 100 ml",
+            "fotoProducto": "https://firebasestorage.googleapis.com/v0/b/famac-673d9.appspot.com/o/productos%2FMaquillaje-U%C3%B1as-5.png?alt=media&token=a31e4a31-4b48-43cd-b36d-828ff847f524",
+            "precio": 550
         }
     ]
 }
