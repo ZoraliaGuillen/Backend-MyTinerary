@@ -13,3 +13,4 @@ const farmaciaSchema = new mongoose.Schema({
 
 const Farmacia = mongoose.model("Farmacia.farmacia", farmaciaSchema)
 module.exports = Farmacia
+
