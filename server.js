@@ -6,8 +6,7 @@ require("./config/database")
 const app = express();
 const Routes = require("./routes/routes")
 
-
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 5000;
 
 app.set("port", PORT)
 app.use(cors())
