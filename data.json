@@ -4,161 +4,141 @@
             "name": "Amsterdam",
             "country": "Netherland",
             "continent": "Europe",
-            "language": "Dutch",
             "description": "Founded in the 13th century as a small fishing village, it is currently the largest city in the country and a major financial and cultural center of international projection.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FAmstermdam(Netherlands).svg?alt=media&token=d7c1f050-0737-4966-9ed1-afc0c5127a49"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FAmstermdam(Netherlands).svg?alt=media&token=956b7297-76c7-49bb-ad07-485154098c2d"
         },
         {
             "name": "Athens",
             "country": "Grecce",
             "continent": "Europe",
-            "language": "Greek",
             "description": "One of the oldest inhabited cities, Athens is a city rich in archaeological remains of extraordinary importance, Roman monuments are preserved, as well as several notable modern constructions.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FAthens(Greece).svg?alt=media&token=e4dd1699-6408-4923-8867-f4d62220b7ab"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FAthens(Greece).svg?alt=media&token=8aabe863-de3a-47aa-b6fb-26d5c77ab2b7"
         },
         {
             "name": "Bangkok",
             "country": "Thailand",
             "continent": "Asia",
-            "language": "English",
             "description": "Thanks to its growing economic development and its great relevance as an international tourist destination, it has become one of the most influential and modern cities in Southeast Asia.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FBangkok(Thailand).svg?alt=media&token=923fb304-0632-4bff-ac39-211ae2990bae"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FBangkok(Thailand).svg?alt=media&token=cf395634-c4e2-4421-8334-d667aaa1c105"
         },
         {
             "name": "Berlin",
             "country": "Germany",
             "continent": "Europe",
-            "language": "German",
             "description": "The buildings of modern architecture erase with large brushstrokes the dark past of the city, creating a special atmosphere where the classic mixes with the modern and the extravagant with the everyday.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FBerlin(Germany).svg?alt=media&token=07b27990-161a-42f5-86a4-76dccd7f7d9b"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FBerlin(Germany).svg?alt=media&token=1c221e0f-a708-48a1-a8f2-56494255933c"
         },
         {
             "name": "Buenos Aires",
             "country": "Argentina",
             "continent": "South America",
-            "language": "Spanish",
             "description": "The waters of the Río de la Plata bathe its coast and make it the political and economic center of the country. It is the second largest urban region in South America.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FBuenosAires(Argentina).svg?alt=media&token=a413ae5d-28fc-4360-a525-91bd741ae487"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FBuenosAires(Argentina).svg?alt=media&token=d3fef320-32ed-48b8-9e1b-1b9d9c0fa371"
         },
         {
             "name": "Cairo",
             "country": "Egypto",
             "continent": "Africa",
-            "language": "Arab",
             "description": "Cairo is the capital of Egypt and is located in front of the Nile River. Its main tourist attractions is the Egyptian Museum where you will find historical relics such as the gold-plated artifacts of Pharaoh Tutankhamun.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FCairo(Egypt).svg?alt=media&token=a8ee542d-e447-4a9b-99b6-08d5d44b85db"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FCairo(Egypt).svg?alt=media&token=1d8d3b7b-05e8-4911-aa0e-3db3381c4c49"
         },
         {
             "name": "Dubai",
             "country": "United Arab Emirates",
             "continent": "Asia",
-            "language": "Arab",
             "description": "It is a city that offers essential tourist places, Safaris through the desert, dinner cruises, the best 5-star hotels and exclusive entertainment with all the luxuries that characterize the city.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FDubai(United%20Arab%20Emirates).svg?alt=media&token=294e9633-cc56-453f-ba3c-5b4e990e9a7d"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FDubai(United%20Arab%20Emirates).svg?alt=media&token=f7458799-ca85-49d9-a754-a18c72311bf0"
         },
         {
             "name": "Hong Kong",
             "country": "Chinese",
             "continent": "Asia",
-            "language": "Chinese",
             "description": "The most popular celebration is the Chinese New Year, which is usually held in January or February. Other celebrations that are also in high demand are the Dragon Boat Festival or the Lantern Festival.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FHong%20Kong(Chinese).svg?alt=media&token=cb38dafc-5a5e-48a5-8031-ae97fc2b3c9f"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FHong%20Kong(Chinese).svg?alt=media&token=bcbc82e8-fbb7-4ec6-9e81-8c710b4324c8"
         },
         {
             "name": "Johannesburg",
             "country": "South Africa",
             "continent": "Africa",
-            "language": "English",
             "description": "With its magnificent climate and surrounding verdant meadows, Johannesburg is South Africa's main center of tourism. A fascinating city with many faces to show, the perfect place to start exploring the continent.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FJohannesburg(South%20Africa).svg?alt=media&token=0638757f-a9ba-4b80-a89f-2af4c797cc04"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FJohannesburg(South%20Africa).svg?alt=media&token=4b73fea6-b27b-4b48-abff-222c975cff4f"
         },
         {
             "name": "London",
             "country": "United Kingdom",
             "continent": "Europe",
-            "language": "English",
             "description": "London is a diverse, colourful, cosmopolitan, dazzling city. A city that has a history of more than two thousand years, but in which the modern and futuristic merge with a great profusion of arts and entertainment.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FLondon(United%20Kingdom).svg?alt=media&token=73b0d2db-bd1f-49b2-a2dd-8ab196dc398d"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FLondon(United%20Kingdom).svg?alt=media&token=30080909-2e82-4c66-900b-ba31173dac00"
         },
         {
             "name": "Madrid",
             "country": "Spain",
             "continent": "Europe",
-            "language": "Spanish",
             "description": "It is a cosmopolitan city that combines the most modern infrastructures and its status as an economic, financial, administrative and service center. It has a magnificent transport network that will allow you easy access by road, plane, train or metro.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FMadrid(Spain).svg?alt=media&token=d1534fc6-9072-459f-bca1-0955052087fc"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FMadrid(Spain).svg?alt=media&token=9deeef07-c78b-45ad-8299-203dfadeff80"
         },
         {
             "name": "Mexico City",
             "country": "Mexico",
             "continent": "North America",
-            "language": "Spanish",
             "description": "It is one of the richest and most fascinating destinations in the world, not only because it is one of the three main cities with the largest number of museums, it also combines a historical legacy, full of flavor thanks to its varied gastronomic offer.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FMexico%20City(Mexico).svg?alt=media&token=e99657b0-dae3-44ad-9e97-df6be9034132"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FMexico%20City(Mexico).svg?alt=media&token=af6845e1-a2df-4de8-a3b0-15f72d3fdc7a"
         },
         {
             "name": "New Delhi",
             "country": "India",
             "continent": "Asia",
-            "language": "English",
             "description": "It is a chaotic city, on the move, flooded with people. It is a mandatory stop in India and from which you can get the most out of for 3 or 4 days. In this list you will find my recommended places, some free and others where you have to pay.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FNew%20Delhi(India).svg?alt=media&token=e46db09e-14e9-4b81-974a-38c588b5b045"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FNew%20Delhi(India).svg?alt=media&token=febebf5a-7914-45fd-acc3-e976ed3b3203"
         },
         {
             "name": "New York",
             "country": "United States",
             "continent": "North America",
-            "language": "English",
             "description": "Rs a great city with many possibilities. The city of skyscrapers has starred in movies and novels that have made it the dream destination for many. Traveling to New York is a unique experience.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FNew%20York(United%20States).svg?alt=media&token=985e2307-ac77-4b75-9306-dbd4bfff7d58"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FNew%20York(United%20States).svg?alt=media&token=041743d7-5e82-4dd3-ad78-408113f47847"
         },
         {
             "name": "Paris",
             "country": "France",
             "continent": "Europe",
-            "language": "French",
             "description": "One of the most beautiful cities in the world, it seduces first of all for its exceptional architectural and cultural heritage. A living heritage, which continues to be modernized and enriched.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FParis(France).svg?alt=media&token=9aae1407-2875-4ddf-9749-9a341d666659"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FParis(France).svg?alt=media&token=e81e8421-4232-4fc1-a8d4-0b1e3a590477"
         },
         {
             "name": "Rio de Janeiro",
             "country": "Brazil",
             "continent": "South America",
-            "language": "Portuguese",
             "description": "It receives intense international tourism and has as its greatest monuments the Sugar Loaf, the statue of Christ the Redeemer (one of the Seven Wonders of the Modern World), the traditional Carnival and the Copacabana beaches.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FRio%20de%20Janeiro(Brazil).svg?alt=media&token=cbefb3b3-5307-461d-a8b1-46b5599822d6"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FRio%20de%20Janeiro(Brazil).svg?alt=media&token=7de21953-8b8f-45f3-9b07-b1e2c2471276"
         },
         {
             "name": "Rome",
             "country": "Italy",
             "continent": "Europe",
-            "language": "Italian",
             "description": "It is located between the Apennines and the Tyrrhenian Sea, it is also known as the Eternal City. In Rome, there are many monuments where art can be breathed, and we appreciate how the ancient mixes with the modern.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FRome(Italy).svg?alt=media&token=865e61ba-1d81-4c60-b8c5-ef8d263259b1"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FRome(Italy).svg?alt=media&token=0afbc70a-26b9-47d2-aa79-a5927840da2f"
         },
         {
             "name": "Sydney",
             "country": "Australia",
             "continent": "Oceania",
-            "language": "English",
             "description": "It offers an urban mix of rich history. To understand why this city is so unique, take the coastal cliff walk from Bondi to Coogee, where you'll pass beaches, tidal pools and lush parks.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FSydney(Australia).svg?alt=media&token=b200c80b-3e48-4719-91ff-e6ee6e5a1afc"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FSydney(Australia).svg?alt=media&token=36508551-e5db-4db2-a9f9-a9bd0bbc0833"
         },
         {
             "name": "Tokyo",
             "country": "Japan",
             "continent": "Asia",
-            "language": "Japanese",
             "description": "Brimming with culture, commerce and, above all, people. The core of the world's most populous urban area, Tokyo is a fascinating and dynamic metropolis that brings high-tech visions of the future.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FTokyo(Japan).svg?alt=media&token=1b41d557-3ab8-4952-aa97-0c5bcec32a29"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FTokyo(Japan).svg?alt=media&token=785c2374-4334-40f0-936b-77c1740b7d7d"
         },
         {
             "name": "Toronto",
             "country": "Canada",
             "continent": "North America",
-            "language": "English",
             "description": "Its great tourist attraction is the proximity of Niagara Falls, but it does have enough attractions to spend a couple of interesting days in the city.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Cities%2FToronto(Canada).svg?alt=media&token=5fec596c-313c-479e-89b5-5e2c79a130fa"
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytineraryzgf.appspot.com/o/Cities%2FToronto(Canada).svg?alt=media&token=0c4025b1-5c85-42ba-ab86-55f23ec0eb51"
         }
     ]
 }
