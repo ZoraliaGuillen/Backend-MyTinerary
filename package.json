@@ -1,7 +1,7 @@
 {
-  "name": "backend-farmacia",
+  "name": "backend-cities",
   "version": "1.0.0",
-  "description": "CRUD for API farmacia",
+  "description": "CRUD for API cities",
   "main": "server.js",
   "scripts": {
     "start:": "node ./server.js",

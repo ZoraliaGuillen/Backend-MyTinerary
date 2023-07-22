@@ -1,19 +1,19 @@
 const Router = require("express").Router()
 
-const farmaciaControllers = require("../controllers/farmaciaControllers")
-const {getAllProducts, getOneProduct, addManyProducts, addOneProduct, removeManyProducts, removeProduct, modifyProduct} = farmaciaControllers
+const citiesControllers = require("../controllers/citiesControllers")
+const {getAllCities, getOneCity, addManyCities, addOneCity, removeManyCities, removeCity, modifyCity} = citiesControllers
 
-Router.route("/farmacia")
-.get(getAllProducts)
-.post((req, res)=>(Array.isArray(req.body.data) ?addManyProducts(req, res) :addOneProduct(req,res)))
-.delete(removeManyProducts)
+Router.route("/cities")
+.get(getAllCities)
+.post((req, res)=>(Array.isArray(req.body.data) ?addManyCities(req, res) :addOneCity(req,res)))
+.delete(removeManyCities)
 
-Router.route("/farmacia/:id")
-.get(getOneProduct)
-.delete(removeProduct)
-.put(modifyProduct)
+Router.route("/cities/:id")
+.get(getOneCity)
+.delete(removeCity)
+.put(modifyCity)
 
-// Router.route("/allCities")
+// Router.route("/allcities")
 // .post(addAllCities)
 
 module.exports = Router;
