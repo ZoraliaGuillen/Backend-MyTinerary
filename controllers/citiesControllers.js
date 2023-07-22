@@ -65,6 +65,7 @@ const citiesControllers = {
                         name: city.name,
                         country: city.country,
                         continent: city.continent,
+                        language: city.language,
                         description: city.description,
                         image: city.image,
                     }
@@ -92,7 +93,7 @@ const citiesControllers = {
 
     },
     addOneCity: async (req, res) => {
-        const { name, country, continent, description, image } = req.body.data
+        const { name, country, continent, language, description, image } = req.body.data
         let city
         let error = null
 
@@ -104,6 +105,7 @@ const citiesControllers = {
                     name: name,
                     country: country,
                     continent: continent,
+                    language: language,
                     description: description,
                     image: image,
                 }).save()
